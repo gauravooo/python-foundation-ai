@@ -12,7 +12,7 @@ My journey from basic Python to AI Engineer. Week 1 work.
   - Matplotlib: bar charts, scatter plots
   - **Business analysis**: Tipping behavior (smokers, time of day, bill vs tip)
 
-**Live notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gauravooo/python-foundations-ai/blob/main/notebooks/basic_pandas.ipynb)
+**Live notebook**: [basic_pandas.ipynb](https://github.com/gauravooo/python-foundations-ai/blob/main/notebooks/basic_pandas.ipynb)
 
 ## 🛠️ Tech Stack
 
